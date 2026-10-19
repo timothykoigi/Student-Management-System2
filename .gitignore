@@ -3,6 +3,7 @@ ___pycache__/
 *.pyo
 *.pyd
 pycache/
+venv/
 data/teacher(admin).json
 data/students.json
 data/*.json
